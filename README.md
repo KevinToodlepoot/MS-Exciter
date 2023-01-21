@@ -2,6 +2,8 @@
 
 I am excited to introduce my audio plug-in, the M/S Exciter, which started as my senior capstone project in undergraduate and now it's evolved to become a powerful tool for all audio enthusiasts. This plug-in is designed to elevate your audio to new heights, with its cutting-edge Mid Side processing and 4x oversampling technology, you can enhance stereo width and add high-quality harmonic richness to your tracks. Developed using the JUCE framework, the M/S Exciter offers a user-friendly interface and a powerful set of features.
 
+<img src="https://ucaa9a8e9e257eb82ef02e831e0b.previews.dropboxusercontent.com/p/thumb/ABw9OcpnwS3I8kZPTxv6e2KNiXrzSu5n2Dr-krbgCWXObq3mM0jEat2j4gA8_tthWDlC4cAX6c074vKlYK6dl70fil4Rixdu_rp53UNb4gvBybEnpO1IGQhdbeLXdqbhvCigQJu8UAin5aMaj5_Ule5Ww6lTz_Row023PaFyVzmTlnOJLmCodNOyM53mmaCXkf1_I7OgCutai5QMM2vlD7YQNIcskw3-D_t15GYZPvgvwSionPBFr3EpdIDuUJrr8KQkS5uzlQP0dTHpdroGLhSmk9_zNVsROq-e5Xu-h3-SLzMTU_MxobwkwgVihFYWTvZHc7qeojwOAjIB5dCQNTV3VG4e9k-yxnbuB4DLQyKKXnff5qnLW6o_S1ehHSV2f0WT8PRfUyER0eVhpbFbQccq1ZQtbKZ6Q8sqg3GJ-yLOqg/p.png" alt="M/S Exciter UI">
+
 ## Features
 - Mid Side processing for expanding stereo width and creating a wider soundstage
 - Tube-based distortion for adding warmth, depth, and harmonic richness to your tracks
@@ -23,7 +25,7 @@ I am excited to introduce my audio plug-in, the M/S Exciter, which started as my
 
 ## Compatibility
 
-The M/S Exciter is compatible with most major DAWs that support VST3 and AU plug-in formats. Built for compatibbility with both intel-based and arm64 (Apple M1) CPUs. 
+The M/S Exciter is compatible with most major DAWs that support VST3 and AU plug-in formats. Built for compatibility with both intel-based and arm64 (Apple M1) CPUs. 
 
 ## Support
 
